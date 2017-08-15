@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	redis "gopkg.in/redis.v4"
 	"os"
+	redis "gopkg.in/redis.v4"
 )
 
 func main() {
