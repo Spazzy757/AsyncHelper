@@ -12,5 +12,3 @@ godep save
 docker-compose up -d
 ```
 > This should download the images and run the main.go file within the container
-
-[] update to use golang dep (official package manager) when stable
